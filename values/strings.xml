@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">praktiskais_1</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="group_text">This is the first application from group 6</string>
+    <string name="surename_1">Māris Skrīvelis</string>
+    <string name="surename_2">Māris Tolstovs</string>
+    <string name="surename_3">Oskars Zvejnieks</string>
+    <string name="dev">Developed by Maris Skrīvelis</string>
+</resources>
